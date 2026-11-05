@@ -1,0 +1,5 @@
+#!/bin/sh
+echo "=== FLAG ==="
+cat /flag.txt 2>&1
+cat /app/flag.txt 2>&1
+echo "=== END ==="
